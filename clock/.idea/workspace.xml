@@ -81,7 +81,7 @@
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DevFast_clock/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="34" selection-start="244" selection-end="244" vertical-scroll-proportion="0.48076922" vertical-offset="0" max-vertical-offset="850">
+            <state line="7" column="33" selection-start="243" selection-end="243" vertical-scroll-proportion="0.48076922" vertical-offset="0" max-vertical-offset="850">
               <folding />
             </state>
           </provider>
@@ -164,7 +164,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1377828955285" />
+        <entry key="$PROJECT_DIR$" value="1377831926217" />
         <entry key="E:\gitfold\DevFast_clock\clock\clock" value="1377831926217" />
       </map>
     </option>
@@ -444,7 +444,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -557,7 +557,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DevFast_clock/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="34" selection-start="244" selection-end="244" vertical-scroll-proportion="0.48076922" vertical-offset="0" max-vertical-offset="850">
+        <state line="7" column="33" selection-start="243" selection-end="243" vertical-scroll-proportion="0.48076922" vertical-offset="0" max-vertical-offset="850">
           <folding />
         </state>
       </provider>
