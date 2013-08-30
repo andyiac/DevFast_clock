@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="E:\gitfold\DevFast_clock\clock\DevFast_Clock2Project\DevFast_Clock2\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="E:\gitfold\DevFast_clock\clock\DevFast_Clock2Project\DevFast_Clock2\src\debug\assets" />
+    </dataSet>
+
+</merger>
