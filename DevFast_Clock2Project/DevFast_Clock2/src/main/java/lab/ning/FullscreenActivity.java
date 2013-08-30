@@ -148,6 +148,8 @@ public class FullscreenActivity extends Activity {
         }
     };
 
+
+    
     /**
      * Schedules a call to hide() in [delay] milliseconds, canceling any
      * previously scheduled calls.
