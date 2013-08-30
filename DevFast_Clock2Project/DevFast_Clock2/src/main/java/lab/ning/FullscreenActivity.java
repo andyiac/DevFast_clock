@@ -140,6 +140,7 @@ public class FullscreenActivity extends Activity {
         }
     };
 
+    
     Handler mHideHandler = new Handler();
     Runnable mHideRunnable = new Runnable() {
         @Override
@@ -156,4 +157,6 @@ public class FullscreenActivity extends Activity {
         mHideHandler.removeCallbacks(mHideRunnable);
         mHideHandler.postDelayed(mHideRunnable, delayMillis);
     }
+
+    // this is my dev _win 7 _101
 }
